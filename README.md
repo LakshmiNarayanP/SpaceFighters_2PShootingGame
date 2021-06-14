@@ -20,12 +20,12 @@ Down arrow key : Move ⬇️ <br>
 Right arrow key : Move ➡️ <br>
 Right Control : 🔫 Fire a bullet <br> <br>
 
-To run the 🎮, use the following command: 
+### To run the 🎮, use the following command: 
 ```python main.py``` <br>
-> Ensure that the `Assets` and the `main.py` file are in the *same directory* <br>
+Ensure that the `Assets` and the `main.py` file are in the *same directory* <br>
 
 
-Once a game ends, the winner is displayed and the game is restarted after 5 seconds
+Once a game ends, the winner is displayed and the game is restarted after 5 seconds 🔄
 
 
 
