@@ -21,7 +21,7 @@ Right arrow key : Move ➡️ <br>
 Right Control : 🔫 Fire a bullet <br> <br>
 
 ### To run the 🎮, use the following command: 
-```python main.py``` <br>
+```python main.py``` <br> <br>
 Ensure that the `Assets` and the `main.py` file are in the *same directory* <br> <br>
 
 
