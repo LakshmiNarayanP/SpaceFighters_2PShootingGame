@@ -1,10 +1,10 @@
 # SpaceFighters_2PShootingGame
-This is a simple 2 player arcade game developed using the **pygame** module of python <br>
-There is a 🟨 spaceship and a 🟥 spaceship as the two players <br> <br>
+This is a simple 2 player arcade game developed using the **Pygame** module of python <br>
+There is a 🟨 spaceship 🛸 and a 🟥 spaceship 🛸 as the two players <br> <br>
 
 ### Modules used:
-+ Pygame
-+ OS
++ Pygame 🐍🎮
++ OS 💻
 
 ### Controls for Player 1 🕹️<br>
 W : Move ⬆️ <br>
@@ -22,10 +22,9 @@ Right Control : 🔫 Fire a bullet <br> <br>
 
 ### To run the 🎮, use the following command: 
 ```python main.py``` <br>
-Ensure that the `Assets` and the `main.py` file are in the *same directory* <br>
+Ensure that the `Assets` and the `main.py` file are in the *same directory* <br> <br>
 
 
-Once a game ends, the winner is displayed and the game is restarted after 5 seconds 🔄
-
+Once a 🎮 ends, the winner 🏆 is displayed and the game is restarted 🔄 after 5 seconds of delay ⏳  
 
 
